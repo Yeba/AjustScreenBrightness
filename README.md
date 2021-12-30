@@ -1,7 +1,7 @@
 # AjustScreenBrightness、
 遵从Creative Commons（CC）许可证，BY+NC+SA 。
 
-基于 AjustScreenBrightness
+基于 [AjustScreenBrightness](https://github.com/CHNMaxGor/AjustScreenBrightness)
 
 采用dxva2.dll方案，添加对多显示器的支持，win10验证可行
 
